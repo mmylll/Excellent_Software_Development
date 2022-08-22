@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "545293710023",
+    "firebase_url": "https://art-store-d1a02-default-rtdb.firebaseio.com",
+    "project_id": "art-store-d1a02",
+    "storage_bucket": "art-store-d1a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545293710023:android:8d619b1991b913c0cd04e2",
+        "android_client_info": {
+          "package_name": "art.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545293710023-gm54vqha4baq96418pc2dq5gujvhuibj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08Z4tYAwXisnhrl_mgiyeV-9p2l0w9dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545293710023-gm54vqha4baq96418pc2dq5gujvhuibj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545293710023-n076arp5a7abl705rbd0q1piq9pvdvq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mmy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545293710023:android:b68e68b5235191cfcd04e2",
+        "android_client_info": {
+          "package_name": "com.mmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545293710023-gm54vqha4baq96418pc2dq5gujvhuibj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB08Z4tYAwXisnhrl_mgiyeV-9p2l0w9dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545293710023-gm54vqha4baq96418pc2dq5gujvhuibj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545293710023-n076arp5a7abl705rbd0q1piq9pvdvq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mmy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
